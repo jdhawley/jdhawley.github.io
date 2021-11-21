@@ -12,7 +12,7 @@ Anybody using Jekyll to generate a website or blog will undoubtedly come across 
 
 The official Jekyll documentation describes collections as "a great way to group related content like members of a team or talks at a conference." Let's break this definition down so we understand exactly what collections are useful for.
 
-The first important piece of this definition is that Jekyll collections group related **content**. In this case, content is referring to anything that will be *rendered* to HTML when the website is generated. This is in contrast to grouping other kinds of information, such as similar data (which belongs in a Data File).
+The first important piece of this definition is that Jekyll collections group related **content**. In this case, content is referring to anything that will be _rendered_ to HTML when the website is generated. This is in contrast to grouping other kinds of information, such as similar data (which belongs in a Data File).
 
 The second important piece of this definition is that Jekyll collections group **related** content. The key here is that the collection shares a single content _structure_. If the different elements of the collection have different _structures_ to the data, they probably belong in regular pages instead of in a collection.
 
@@ -101,11 +101,11 @@ When you read through the HTML, you'll notice several instances {% raw %}`{% ...
 
 The resulting page should look something like the following:
 
-<img src="/assets/images/2021-11-20-jekyll-collections/store_locations.png" alt="Store locations page">
+{% include image.html src="2021-11-20-jekyll-collections/store_locations.png" %}
 
 You can also click into the pages for each store location to see the content associated with that location. You can create a custom template for the objects in that collection if you want to make it look nice or display some additional information, but we are going to leave it for now. We should just see the content we added to the file, which should look something like this:
 
-<img src="/assets/images/2021-11-20-jekyll-collections/candy_cravings.png" alt="Candy Cravings store page">
+{% include image.html src="2021-11-20-jekyll-collections/candy_cravings.png" %}
 
 ## Summary
 
