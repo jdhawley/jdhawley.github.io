@@ -1,11 +1,10 @@
 ---
 author: jdhawley
+date: "2021-11-21"
 additional_resources: 
     - "[Variables (Official Jekyll Documentation)](https://jekyllrb.com/docs/variables/)"
     - "[concat - Liquid Filter](https://shopify.dev/api/liquid/filters/array-filters#concat)"
 ---
-
-# Iterating Over All Renderable Content in Jekyll
 
 As I was working on this website yesterday, I found myself looking for a way to loop through every page, post, and collection item for a specific tag on the page. This seemed like a fairly simple use case but I was having a hard time finding documentation on a solution that behaved the way I wanted it to.
 
