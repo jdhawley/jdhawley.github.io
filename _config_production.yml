@@ -2,3 +2,4 @@
 # bundle exec jekyll serve --livereload --config _config.yml,_config_production.yml JEKYLL_ENV=production
 
 future: false
+show_drafts: false
