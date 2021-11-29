@@ -1,7 +1,6 @@
 ---
 title: Jekyll Collections Vs. Data Files
 author: jdhawley
-date: "2021-12-04"
 additional_resources:
     - "[Jekyll Collections](/2021/11/20/jekyll-collections.html)"
     - "[Jekyll Collections (Official Jekyll Docs)](https://jekyllrb.com/docs/collections/)"

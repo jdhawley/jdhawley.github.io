@@ -1,7 +1,6 @@
 ---
 author: jdhawley
 title: Looping Through All Renderable Pages in Jekyll
-date: "2021-11-21"
 additional_resources: 
     - "[Variables (Official Jekyll Documentation)](https://jekyllrb.com/docs/variables/)"
     - "[concat - Liquid Filter](https://shopify.dev/api/liquid/filters/array-filters#concat)"
