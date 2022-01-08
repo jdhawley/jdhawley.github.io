@@ -1,7 +1,7 @@
 ---
 author: jdhawley
 title: AWS Shared Responsibility Model
-additional-resources:
+additional_resources:
     - "[AWS Lambda Security Overview - Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/security-overview-aws-lambda/security-overview-aws-lambda.pdf)"
     - "[AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)"
 ---

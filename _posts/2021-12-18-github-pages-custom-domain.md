@@ -1,6 +1,10 @@
 ---
 author: jdhawley
 title: Using Custom Domain with GitHub Pages
+additional_resources:
+    - "[Using custom domain for GitHub pages | Hossain Khan](https://hossainkhan.medium.com/using-custom-domain-for-github-pages-86b303d3918a)"
+    - "[Linking a Custom Domain to GitHub Pages | Rich Pauloo](https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/)"
+    -  "[About Custom Domains and GitHub Pages | GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)"
 ---
 
 # Adding a Custom Domain to GitHub Pages

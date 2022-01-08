@@ -1,6 +1,11 @@
 ---
 author: jdhawley
 title: SEO Strategies for Jekyll Websites
+additional_resources:
+    - "[A Beginner's Guide to SEO optimization in a Jekyll static website | Juliette Sinibardy](https://jsinibardy.com/optimize-seo-jekyll)"
+    - "[How I improved my Jekyll SEO | Waldek Mastykarz](https://blog.mastykarz.nl/improve-jekyll-seo/)"
+    - "[10 Must do Jekyll SEO optimizations | Webjeda](https://blog.webjeda.com/optimize-jekyll-seo/)"
+    - "[Google Lighthouse Docs](https://developers.google.com/web/tools/lighthouse/)"
 ---
 
 In today’s increasingly digital world, search engine rankings continue to become more and more important for attracting new readers to blogs and other web-based content. It’s still important to produce high-quality content, but high-quality content is no longer enough to bring in new traffic.
