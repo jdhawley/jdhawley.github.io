@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<h1>{{page.title}}</h1>
+<header>
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+<div class="content">
+  {% include post-meta.html post=page %}
 
+  <div class="post-body">
+    {{ content }}
+    {% include post-tags.html post=page %}
+  </div>
 
-<p>
-    {{page.date | date_to_string}} - {{page.author}}
-    {% assign author = site.authors | where: "short_name", page.author | first %}
-    {% if author %}
-        - <a href="{{author.url}}">{{author.name}}</a>
-    {% endif %}
-</p>
-
-{{content}}
-
-{% include additional-resources.md %}
+  {% include comments.html %}
+  {% include related_posts.html %}
+</div>
