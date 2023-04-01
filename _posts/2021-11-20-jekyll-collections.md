@@ -7,7 +7,7 @@ additional_resources:
     - "[Liquid Template Language](https://shopify.github.io/liquid/)"
 ---
 
-Anybody using Jekyll to generate a website or blog will undoubtedly come across Jekyll collections at some point. They are an invaluable tool for grouping similar content together, and understanding how collections work is a necessity for using Jekyll effectively.
+Anybody using Jekyll to generate a website or blog will undoubtedly come across Jekyll collections at some point. They are an invaluable tool for grouping similar content, and understanding how collections work is a necessity for using Jekyll effectively.
 
 The official Jekyll documentation describes collections as "a great way to group related content like members of a team or talks at a conference." Let's break this definition down so we understand exactly what collections are useful for.
 

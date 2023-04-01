@@ -9,6 +9,8 @@ additional_resources:
 tags: tag1 tag2
 ---
 
+Do you know when to use categories and tags when building Jekyll sites? This blog post will tell you everything you need to know.
+
 # Jekyll Categories Vs. Tags
 
 When it comes to classifying and organizing content in Jekyll, there are two primary concepts that often come up - categories and tags. Categories and tags are both common concepts for classifying content across the web, regardless of whether or not Jekyll is involved.

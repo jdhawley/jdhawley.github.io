@@ -3,6 +3,8 @@ author: jdhawley
 title: November 2021 Monthly Report
 ---
 
+November was a pretty solid month for me. Read more about it in this blog post.
+
 # November 2021 Monthly Report
 
 ## November in a Nutshell

@@ -5,6 +5,8 @@ additional_resources:
     - "[Fear-Setting Exercise](https://tim.blog/2017/05/15/fear-setting/)"
 ---
 
+I've struggled with anxiety for most of my life. Recently, I was placed in my first real leadership position at work. For awhile, my leadership position caused my anxiety to get worse. But with time and practice, I was able to overcome my anxiety.
+
 ## My Leadership Story
 
 For most of my life, I've managed to successfully dodge nearly every leadership position that came my way.

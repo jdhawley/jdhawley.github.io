@@ -7,6 +7,8 @@ additional_resources:
     -  "[About Custom Domains and GitHub Pages | GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)"
 ---
 
+If you're like me, you want your GitHub Pages website to show up on a domain that is not `.github.io`. Learn how to do exactly that in this blog post.
+
 # Adding a Custom Domain to GitHub Pages
 
 When it comes to blog-friendly static site generators, Jekyll is definitely near the top of the list. One of the reasons Jekyll is so popular is because of the “magic” integration with GitHub Pages.
