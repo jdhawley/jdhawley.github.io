@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Jonathan Hawley
 tagline:          'The Skill Stacked Software Engineer'
 description:      'The Skill Stacked Software Engineer'
-url:              https://jdhawley.github.io
+url:              https://www.jdhawley.com/
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

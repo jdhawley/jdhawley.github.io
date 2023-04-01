@@ -5,8 +5,6 @@ additional_resources:
     - "[What's the difference between categories and tags in Jekyll? (Stack Overflow)](https://stackoverflow.com/q/8675841/17439238)"
     - "[Jekyll Tags on Github Pages](https://longqian.me/2017/02/09/github-jekyll-tag/)"
     - "[jekyll-tagging (Jekyll Plugin)](https://github.com/pattex/jekyll-tagging)"
-
-tags: tag1 tag2
 ---
 
 Do you know when to use categories and tags when building Jekyll sites? This blog post will tell you everything you need to know.
