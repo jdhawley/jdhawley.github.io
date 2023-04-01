@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+Hi, I'm Jonathan. Welcome to my blog.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+I'm a full-stack software engineer at [Impartner](https://impartner.com/).
+
+I write about software and leadership. If I'm feeling spicy, you might see a post or two about fitness and/or running a business.
+
+Thanks for dropping by!
