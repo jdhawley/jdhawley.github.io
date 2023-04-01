@@ -26,6 +26,8 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Sidebar link settings
 sidebar_home_link:  true
@@ -40,3 +42,6 @@ defaults:
         type: "posts"
       values:
         layout: "post"
+
+future: false
+show_drafts: false
